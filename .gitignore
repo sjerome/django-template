@@ -1,0 +1,3 @@
+myenv
+*.pyc
+django_template/ignore_directory
